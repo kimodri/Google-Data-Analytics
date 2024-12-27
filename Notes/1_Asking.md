@@ -66,6 +66,7 @@ Example:
 | **Why?**                        | Control valves have not been tested.         |
 | **Why?**                        | Control valves are not on the maintenance schedule. |
 
+---
 ### 2. Identify the Type of Problem
 - After defining the problem we should now identify where the problem falls because doing so can lead you to the proper steps in solving it.<br>
 
@@ -79,6 +80,7 @@ Example:
 | **Discovering connections** | Finding similar challenges among different entities and collaborating to solve the problem.                    | If a company experiences delays in shipments, the issue might be traced to a logistics partner or their partner. |
 | **Finding patterns**        | Using historical data to predict or explore trends.                                                            | Analyzing spending trends in e-commerce to predict future investment opportunities.                              |
 
+---
 ### 3. Asking the right questions about the problem
 - With the problem defined, you can still ask questions. These questions will guide you to solve the problem you have defined from step 1 (This can also help you guide you throughout your analysis).
 
@@ -93,6 +95,7 @@ To ask the right question you should employ the **SMART** method of asking.
 | **Relevant**      | Questions matter and are significant to the problem being addressed.                                                                                                            | Why does it matter that Pine Barrens tree frogs started disappearing?                                  | What environmental factors changed in Durham, NC, between 1983 and 2004 that could cause the frogs to disappear?   |
 | **Time-Bound**    | Questions specify the time period to focus on relevant data and limit the range of possibilities.                                                                                | How did the disappearance of frogs impact ecosystems?                                                 | What environmental factors changed in Durham, NC, between 1983 and 2004 that could cause Pine Barrens tree frogs to disappear? |
 
+---
 ### 4. Use structured thinking to start
 - After asking a bunch of question what to do next? You're next step to know how you will solve the problem (What should your output be? What is the scope of your work?)
 

@@ -61,6 +61,7 @@ You can think of these considerations to achieve your analysis goals.
 
 **Kim,** you might be wondering why this is important. Well, there are times when analysis-ready data isn’t readily available. Often, you’ll need to retrieve data from a database (e.g., using SQL). In such cases, these guidelines can help you choose the right data from the database effectively.
 
+---
 ### 2. Decide on the formats of your data
 
 - This is important because once you know what format of data you have, you'd know what to do with them. 
@@ -77,6 +78,7 @@ There are different data formats and each format requires different handling:
 | **Structured Data**     | Data organized into rows and columns, such as a spreadsheet or database table. It’s easy to search and analyze, making it a common format for analysts.                     |
 | **Unstructured Data**   | Data without a defined format, like video or audio files. While harder to analyze, it can provide unique insights.                                                         |
 
+---
 ### 3. Wide or Long Data?
 
 Structured data is still divided into two and each of these require different strategies when handling.
@@ -179,6 +181,7 @@ Structured data is still divided into two and each of these require different st
 
 ## Understanding your Data
 - Once you're with a transformed data from the above you must know its characteristics
+
 ### 1. Being wary on Biases
 There are different types of bias and you may find this in the data you are working on or will collect:
 1. Sampling bias
@@ -189,6 +192,8 @@ There are different types of bias and you may find this in the data you are work
 3. Interpretation bias
 4. Confirmation bias
 5. Observation bias
+
+---
 ### 2. Is my data good?
 Aside from being wary of the biases you can just find good data. Good data satisfies _ROCCC_
 
@@ -197,6 +202,8 @@ Aside from being wary of the biases you can just find good data. Good data satis
 - Comprehensive
 - Current
 - Cited
+
+---
 ### 3. Create a metadata
 Metdadata about your data provides context and ensures consistency. For example, if you are working on two files, one file's metadata may include the methods for collecting the data thus you can compare the two files and if they differ (based on their metadata then it is perhaps better to not combine them).
 - To better make use of metadata you can create a repository of it.
